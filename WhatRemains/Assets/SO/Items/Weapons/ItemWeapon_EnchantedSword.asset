@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eed4456814932e49824023d16b7460e, type: 3}
+  m_Name: ItemWeapon_EnchantedSword
+  m_EditorClassIdentifier: 
+  ID: EnchantedSword
+  Name: Enchanted Sword
+  Icon: {fileID: 21300000, guid: 1d7abe429ab74cf4c9ef2dd9e30c69b3, type: 3}
+  Description: An enchanted magical sword from an ancient ruler.
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: 9a1cabe133aacf140a79be06716d8420, type: 2}

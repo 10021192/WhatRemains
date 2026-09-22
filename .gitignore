@@ -1,0 +1,19 @@
+# Unity
+Library/
+Temp/
+Obj/
+Logs/
+Build/
+.vs/
+*.csproj
+*.sln
+
+# Android
+.gradle/
+.idea/
+build/
+*.apk
+
+# General
+.DS_Store
+Thumbs.db

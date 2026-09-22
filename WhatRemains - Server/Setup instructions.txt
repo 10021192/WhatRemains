@@ -1,0 +1,8 @@
+Setup instructions:
+
+- Clone or extract the files;
+- Start by installing node.js, latest stable version;
+- Install dependencies - npm install;
+- Setup database using the .sql scripts inside the database_scripts folder;
+- Add .env file using the credentials as an example template;
+- Start the server by running node app.js;

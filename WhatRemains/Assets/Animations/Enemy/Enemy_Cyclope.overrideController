@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy_Cyclope
+  m_Controller: {fileID: 9100000, guid: c578faa7370ebc84dba0432ff69c5749, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: e83ec0dcce81ef24592a0b001c14012f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 7cf789b9c0485fd408db637c786dc625, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7e625c0663561184f82605a296bd3013, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: b1d303e27ade53f49b53431f4d6e9e5b, type: 2}

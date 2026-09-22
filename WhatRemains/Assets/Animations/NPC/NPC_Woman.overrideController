@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC_Woman
+  m_Controller: {fileID: 9100000, guid: 11945b97dc65fe241be7e3faf538aff4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 75d521a24ed77054b9c13df42fbd28e1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 17da871a81e75154a8ff6571c2b03f6c, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: a1768c260579c874a99cf114ad3d6467, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1574a3ea5a25b5b459bd897eb8c9d2a3, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: d58636d2859f79646b202eecf9ee918b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 98f0559ce83d1b349902e8f439249e46, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eac9b7996cd241f4180073a600083869, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fa103a0d138c5854da2ad309be1087b7, type: 2}

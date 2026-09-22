@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eed4456814932e49824023d16b7460e, type: 3}
+  m_Name: ItemWeapon_Bone
+  m_EditorClassIdentifier: 
+  ID: WeaponBone
+  Name: Bone
+  Icon: {fileID: 21300000, guid: a6a3a8d76f318f347820e544612b067c, type: 3}
+  Description: Crafted from the remains of a dangerous creature, appears to be a
+    jagged and sharp dagger.
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: 445c6d029c6ee5744a1952ec94287a8f, type: 2}

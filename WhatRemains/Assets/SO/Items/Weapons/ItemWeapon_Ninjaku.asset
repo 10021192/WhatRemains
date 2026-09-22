@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eed4456814932e49824023d16b7460e, type: 3}
+  m_Name: ItemWeapon_Ninjaku
+  m_EditorClassIdentifier: 
+  ID: Ninjaku
+  Name: Ninjaku
+  Icon: {fileID: 21300000, guid: b50510b2c632b774ba822c634f957e47, type: 3}
+  Description: A powerful nunchaku weapon passed down by generations of elite ninjas.
+  ItemType: 0
+  IsConsumable: 0
+  IsStackable: 0
+  MaxStack: 1
+  Quantity: 0
+  Weapon: {fileID: 11400000, guid: a863220ee800c9b449e9e673bc4f1f3a, type: 2}

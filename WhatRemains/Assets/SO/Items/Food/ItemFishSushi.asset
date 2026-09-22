@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0464d3b5d048a648b8061b58bb9657a, type: 3}
+  m_Name: ItemFishSushi
+  m_EditorClassIdentifier: 
+  ID: FishSushi
+  Name: Fish Sushi
+  Icon: {fileID: 21300000, guid: 99de3b1402834074389495f2381e0e9c, type: 3}
+  Description: Tasty treat that starts a health regeneration overtime effect.
+  ItemType: 3
+  IsConsumable: 1
+  IsStackable: 1
+  MaxStack: 20
+  Quantity: 0
+  RegenAmount: 14
+  RegenInterval: 2
+  RegenDuration: 10
