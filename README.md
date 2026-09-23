@@ -28,7 +28,7 @@ A young hero must restore a ruined town by clearing monsters, completing quests,
 
 - **Game:** Unity 2D, C#
 - **Companion App:** Android Studio, Kotlin
-- **Server:** Node.js
+- **Server:** Node.js (deployed to Vercel)
 - **Database:** MySQL
 - **Architecture:** Scriptable Objects, FSM for AI, Queues (dialogue), Lists (inventory)
 
