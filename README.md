@@ -61,6 +61,34 @@ A young hero must restore a ruined town by clearing monsters, completing quests,
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center" width="33%"><b>Strength</b></td>
+    <td align="center" width="33%"><b>Dexterity</b></td>
+    <td align="center" width="33%"><b>Intelligence</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/stats-str.png" alt="Strength player stats" width="100%"></td>
+    <td><img src="screenshots/stats-dex.png" alt="Dexterity player stats" width="100%"></td>
+    <td><img src="screenshots/stats-int.png" alt="Intelligence player stats" width="100%"></td>
+  </tr>
+</table>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%"><b>App Menu</b></td>
+    <td align="center" width="50%"><b>Coins Minigame</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/companionapp.png" alt="Companion App menu" height="500"></td>
+    <td align="center"><img src="screenshots/coins-minigame.png" alt="Screen tapping minigame for coins" height="500"></td>
+  </tr>
+</table>
+
+</div>
+
 ## License
 
 This project was developed for academic purposes.
