@@ -40,7 +40,11 @@ A young hero must restore a ruined town by clearing monsters, completing quests,
 
 ## Screenshots
 
-![Boss fight in WhatRemains](screenshots/gameplay-2.png)
+<p align="center"><b>Gameplay</b></p>
+
+<p align="center">
+  <img src="screenshots/gameplay-2.png" alt="Fighting the boss in WhatRemains" width="100%">
+</p>
 
 <table>
   <tr>
