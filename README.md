@@ -42,6 +42,21 @@ A young hero must restore a ruined town by clearing monsters, completing quests,
 
 ![Boss fight in WhatRemains](screenshots/gameplay-2.png)
 
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Loot</b></td>
+    <td align="center" width="25%"><b>Crafting</b></td>
+    <td align="center" width="25%"><b>Quests</b></td>
+    <td align="center" width="25%"><b>Shop</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/loot.png" alt="Loot system" width="100%"></td>
+    <td><img src="screenshots/crafting.png" alt="Crafting system" width="100%"></td>
+    <td><img src="screenshots/quest.png" alt="Quest system" width="100%"></td>
+    <td><img src="screenshots/shop.png" alt="Shop system" width="100%"></td>
+  </tr>
+</table>
+
 ## License
 
 This project was developed for academic purposes.
