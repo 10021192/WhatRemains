@@ -38,6 +38,10 @@ A young hero must restore a ruined town by clearing monsters, completing quests,
 - Some UI/feedback polish needed
 - Companion app functional but minimal
 
+## Screenshots
+
+![Boss fight in WhatRemains](screenshots/gameplay-2.png)
+
 ## License
 
 This project was developed for academic purposes.
